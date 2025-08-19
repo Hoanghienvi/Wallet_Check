@@ -1,0 +1,9 @@
+python-dotenv 
+python-telegram-bot==20.7
+python-binance 
+pandas
+ta
+matplotlib
+mplfinance
+requests
+numpy

@@ -1,0 +1,21 @@
+crypto_macro_alert_bot_v6/
+│
+├── advanced_indicators/
+│   ├── __init__.py
+│   ├── fibonacci.py
+│   ├── patterns.py
+│   ├── elliot_wave.py
+│   ├── fair_value_gap.py
+│   ├── candlestick_patterns.py
+│   ├── heikin_ashi.py
+│   ├── renko.py
+│   ├── harmonic_patterns.py
+│   ├── support_resistance.py
+│   ├── trendlines.py
+│   ├── gann_angles.py
+│   ├── momentum_oscillators.py
+│   └── volume_analysis.py
+├── utils/
+│   ├── config.py
+│   └── pattern_recognition.py
+└── main.py
